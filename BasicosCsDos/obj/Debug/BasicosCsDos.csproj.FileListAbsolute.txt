@@ -6,3 +6,11 @@ C:\Users\asalalc1312\source\repos\BasicosCsDos\BasicosCsDos\obj\Debug\BasicosCsD
 C:\Users\asalalc1312\source\repos\BasicosCsDos\BasicosCsDos\obj\Debug\BasicosCsDos.exe
 C:\Users\asalalc1312\source\repos\BasicosCsDos\BasicosCsDos\obj\Debug\BasicosCsDos.pdb
 C:\Users\asalalc1312\source\repos\BasicosCsDos\BasicosCsDos\obj\Debug\BasicosCsDos.exe.config
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\bin\Debug\BasicosCsDos.exe.config
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\bin\Debug\BasicosCsDos.exe
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\bin\Debug\BasicosCsDos.pdb
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\obj\Debug\BasicosCsDos.csproj.AssemblyReference.cache
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\obj\Debug\BasicosCsDos.exe.config
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\obj\Debug\BasicosCsDos.csproj.CoreCompileInputs.cache
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\obj\Debug\BasicosCsDos.exe
+C:\Users\asalalc1312\Documents\repos\EjerciciosCsBasicosDos\BasicosCsDos\obj\Debug\BasicosCsDos.pdb
